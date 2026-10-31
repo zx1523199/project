@@ -1,0 +1,22 @@
+# Keil MDK 编译输出
+OBJ/
+*.axf
+*.elf
+*.hex
+*.bin
+*.o
+*.d
+*.crf
+*.lnp
+*.sct
+*.dep
+*.bak
+*.uvguix.*
+*.JLinkLog
+
+# VSCode
+.vscode/
+
+# 临时文件
+*.bat
+*.log
